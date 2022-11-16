@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chiefdaddy2022
-- 👀 I’m interested in Data Analysis using Python & Tableau
-- 🌱 I’m currently learning to become a Data Analyst using Pythom
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analysis using Python, SQL and Tableau
+- 🌱 I’m a Data Analyst using Python, SQL and Tableau
+- 💞️ I’m looking to collaborate on get employed either as a freelance data analyst or paid employment
 - 📫 How to reach me chinedumnwagbara2015@gmail.com
 
 <!---
